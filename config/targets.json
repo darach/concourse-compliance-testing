@@ -275,5 +275,23 @@
         "text": "API Program - Developer Hub"
       }
     ]
+  },
+  {
+    "name": "e-QIP Prototype (frontend)",
+    "slack_channel": "acq-e-qip-vendor",
+    "links": [
+      {
+        "url": "https://eqip-prototype-staging.fr.cloud.gov/"
+      }
+    ]
+  },
+    {
+    "name": "e-QIP Prototype (API backend)",
+    "slack_channel": "acq-e-qip-vendor",
+    "links": [
+      {
+        "url": "https://eqip-prototype-staging-api.fr.cloud.gov/"
+      }
+    ]
   }
 ]
